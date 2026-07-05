@@ -1,2 +1,2 @@
 # Power_BI_Dashboard
-Designed an interactive Performance Tracker Dashboard in Power BI to analyze sales performance and provide actionable business insights. The dashboard enables users to monitor key performance indicators (KPIs), explore sales trends, and filter data dynamically for deeper analysis.
+Built an interactive Performance Tracker Dashboard using Power BI to transform raw sales data into meaningful insights. The dashboard features KPI cards, trend analysis, sales distribution charts, and dynamic filters that help users analyze business performance by product line, city, payment method, customer type, gender, and branch. This project demonstrates skills in Power Query, DAX, data modeling, and dashboard design.
